@@ -101,5 +101,6 @@ namespace borsa_projesi
         {
             kayitOl();
         }
+        
     }
 }
